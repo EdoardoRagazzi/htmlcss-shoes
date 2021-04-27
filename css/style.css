@@ -3,3 +3,23 @@
     margin: 0;
     box-sizing: border-box;
 }
+/* container  */
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+/* box */
+.box{
+    width: 100%;
+    height: 100vh;
+}
+/* varie sezioni */
+.first{
+    background-color: red;
+}
+.second{
+    background-color: green;
+}
+.third{
+    background-color: yellow;
+}
